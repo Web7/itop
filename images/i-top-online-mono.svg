@@ -1,0 +1,181 @@
+<svg data-name="Layer 1" version="1.1" viewBox="0 0 59.7 32.23" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1,.cls-2,.cls-3{fill:none;}.cls-1{clip-rule:evenodd;}.cls-3{fill-rule:evenodd;}.cls-4{clip-path:url(#clip-path);}.cls-5{clip-path:url(#clip-path-2);}.cls-6{fill:#787878;}.cls-7{clip-path:url(#clip-path-3);}.cls-8{fill:#ababab;}.cls-9{fill:#252525;}.cls-10{clip-path:url(#clip-path-7);}.cls-11{fill:#a4a4a4;}.cls-12{clip-path:url(#clip-path-9);}.cls-13{fill:#c2c2c2;}.cls-14{clip-path:url(#clip-path-13);}.cls-15{isolation:isolate;}.cls-16{clip-path:url(#clip-path-15);}.cls-17{clip-path:url(#clip-path-16);}.cls-18{clip-path:url(#clip-path-17);}.cls-19{clip-path:url(#clip-path-19);}.cls-20{clip-path:url(#clip-path-21);}.cls-21{clip-path:url(#clip-path-23);}.cls-22{clip-path:url(#clip-path-25);}.cls-23{fill:#b7b7b7;}.cls-24{clip-path:url(#clip-path-29);}.cls-25{clip-path:url(#clip-path-31);}.cls-26{clip-path:url(#clip-path-33);}.cls-27{clip-path:url(#clip-path-35);}.cls-28{clip-path:url(#clip-path-37);}.cls-29{clip-path:url(#clip-path-39);}.cls-30{clip-path:url(#clip-path-41);}.cls-31{fill:#393838;}.cls-32{clip-path:url(#clip-path-43);}.cls-33{fill:#6a6a6a;}</style>
+  <clipPath id="clip-path">
+   <path class="cls-1" d="m77.8 28.12a2.42 2.42 0 0 0-2.34-1.84h-13a2.47 2.47 0 0 0 0 4.94h4.14v-2.38a2.44 2.44 0 1 1 4.87 0v2.38h3.58a10.23 10.23 0 0 1 2.75-3.1" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-2">
+   <rect class="cls-2" x="50" y="25.67" width="61" height="34" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-3">
+   <path class="cls-1" d="m77.89 28.75a2.18 2.18 0 0 0-0.09-0.63 10.23 10.23 0 0 0-2.75 3.1h0.41a2.45 2.45 0 0 0 2.43-2.47" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-7">
+   <path class="cls-1" d="m66.6 43.93a2.44 2.44 0 1 0 4.87 0v-12.71h-4.87z" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-9">
+   <path class="cls-1" d="m69 26.36a2.46 2.46 0 0 0-2.43 2.48v2.38h4.87v-2.38a2.46 2.46 0 0 0-2.44-2.48" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-13">
+   <path class="cls-1" d="m88.78 36.35a5.11 5.11 0 1 1-10.21 0h-4.88a10 10 0 1 0 20 0z" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-15">
+   <path class="cls-1" d="m78.56 36.3a5.11 5.11 0 1 1 10.22 0h4.87a10.07 10.07 0 0 0-10-10.13 9.85 9.85 0 0 0-5.87 1.95 2.18 2.18 0 0 1 0.09 0.63 2.45 2.45 0 0 1-2.43 2.47h-0.41a10.18 10.18 0 0 0-1.36 5.08z" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-16">
+   <rect class="cls-2" x="73" y="25.67" width="21" height="11" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-17">
+   <path class="cls-1" d="m76.12 33.54a2.46 2.46 0 0 0-2.44 2.46v0.2a2.44 2.44 0 1 0 4.87 0v-0.2a2.45 2.45 0 0 0-2.43-2.47" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-19">
+   <path class="cls-1" d="m91.2 33.54a2.46 2.46 0 0 0-2.44 2.46v0.2a2.44 2.44 0 1 0 4.87 0v-0.2a2.45 2.45 0 0 0-2.43-2.47" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-21">
+   <path class="cls-1" d="m94 28.88v15.05a2.44 2.44 0 1 0 4.87 0v-12.62h-2.48a2.45 2.45 0 0 1-2.39-2.43" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-23">
+   <path class="cls-1" d="m102.38 26.36h-6a2.46 2.46 0 0 1 2.43 2.48v2.47h3.55a2.4 2.4 0 0 1 0 4.79 2.47 2.47 0 0 0 0 4.94 7.34 7.34 0 0 0 0-14.68" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-25">
+   <path class="cls-1" d="m96.4 26.36a2.46 2.46 0 0 0-2.4 2.48 2.45 2.45 0 0 0 2.43 2.43h2.44v-2.43a2.46 2.46 0 0 0-2.43-2.48" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-29">
+   <path class="cls-1" d="m50 55.88a2.58 2.58 0 1 1 2.57 2.52 2.52 2.52 0 0 1-2.57-2.52m3.79 0a1.25 1.25 0 0 0-1.22-1.31 1.23 1.23 0 0 0-1.21 1.31 1.25 1.25 0 0 0 1.22 1.31 1.23 1.23 0 0 0 1.21-1.31" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-31">
+   <polygon class="cls-1" points="64.9 56.02 64.9 53.45 66.21 53.45 66.21 58.3 65.05 58.3 63.01 55.64 63.01 58.3 61.7 58.3 61.7 53.45 62.94 53.45" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-33">
+   <polygon class="cls-1" points="74.52 57.13 76.83 57.13 76.83 58.3 73.19 58.3 73.19 53.45 74.52 53.45" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-35">
+   <rect class="cls-2" x="83.56" y="53.45" width="1.33" height="4.85" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-37">
+   <polygon class="cls-1" points="95.11 56.02 95.11 53.45 96.42 53.45 96.42 58.3 95.26 58.3 93.22 55.64 93.22 58.3 91.91 58.3 91.91 53.45 93.14 53.45" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-39">
+   <polygon class="cls-1" points="107.24 54.6 104.71 54.6 104.71 55.33 107 55.33 107 56.39 104.71 56.39 104.71 57.16 107.28 57.16 107.28 58.3 103.4 58.3 103.4 53.45 107.24 53.45" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-41">
+   <path class="cls-1" d="m52.87 26.36a2.46 2.46 0 0 0-2.43 2.48v0.16a2.44 2.44 0 1 0 4.87 0v-0.19a2.46 2.46 0 0 0-2.44-2.48" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+  <clipPath id="clip-path-43">
+   <path class="cls-1" d="m52.87 33.47a4.18 4.18 0 0 1-2.43-0.77v11.23a2.44 2.44 0 1 0 4.87 0v-11.23a4.19 4.19 0 0 1-2.44 0.77" clip-rule="evenodd" fill="none"/>
+  </clipPath>
+ </defs>
+ <title>iTopLogos+gray</title>
+ <g class="cls-4" transform="translate(-50 -26.17)" clip-path="url(#clip-path)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-6" x="54.97" y="21.28" width="27.83" height="14.95" fill="#787878"/>
+  </g>
+ </g>
+ <g class="cls-7" transform="translate(-50 -26.17)" clip-path="url(#clip-path-3)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-8" x="70.05" y="23.12" width="12.85" height="13.1" fill="#ababab"/>
+  </g>
+ </g>
+ <g class="cls-7" transform="translate(-50 -26.17)" clip-path="url(#clip-path-3)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-9" x="70.05" y="23.12" width="12.85" height="13.1" fill="#252525"/>
+  </g>
+ </g>
+ <g class="cls-10" transform="translate(-50 -26.17)" clip-path="url(#clip-path-7)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-11" x="61.6" y="26.22" width="14.87" height="25.18" fill="#a4a4a4"/>
+  </g>
+ </g>
+ <g class="cls-12" transform="translate(-50 -26.17)" clip-path="url(#clip-path-9)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-13" x="61.6" y="21.36" width="14.87" height="14.86" fill="#c2c2c2"/>
+  </g>
+ </g>
+ <g class="cls-12" transform="translate(-50 -26.17)" clip-path="url(#clip-path-9)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-9" x="61.6" y="21.36" width="14.87" height="14.86" fill="#252525"/>
+  </g>
+ </g>
+ <g class="cls-14" transform="translate(-50 -26.17)" clip-path="url(#clip-path-13)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-6" x="68.69" y="31.35" width="29.96" height="20.13" fill="#787878"/>
+  </g>
+ </g>
+ <g class="cls-15" transform="translate(-50 -26.17)" style="isolation:isolate">
+  <g class="cls-16" clip-path="url(#clip-path-15)">
+   <g class="cls-17" clip-path="url(#clip-path-16)">
+    <rect class="cls-11" x="68.69" y="21.17" width="29.96" height="20.13" fill="#a4a4a4"/>
+   </g>
+  </g>
+ </g>
+ <g class="cls-18" transform="translate(-50 -26.17)" clip-path="url(#clip-path-17)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-9" x="68.68" y="28.54" width="14.87" height="15.14" fill="#252525"/>
+  </g>
+ </g>
+ <g class="cls-19" transform="translate(-50 -26.17)" clip-path="url(#clip-path-19)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-9" x="83.76" y="28.54" width="14.87" height="15.14" fill="#252525"/>
+  </g>
+ </g>
+ <g class="cls-20" transform="translate(-50 -26.17)" clip-path="url(#clip-path-21)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-11" x="88.96" y="23.88" width="14.87" height="27.53" fill="#a4a4a4"/>
+  </g>
+ </g>
+ <g class="cls-21" transform="translate(-50 -26.17)" clip-path="url(#clip-path-23)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-6" x="91.4" y="21.36" width="23.21" height="24.68" fill="#787878"/>
+  </g>
+ </g>
+ <g class="cls-22" transform="translate(-50 -26.17)" clip-path="url(#clip-path-25)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-23" x="88.96" y="21.36" width="14.87" height="14.95" fill="#b7b7b7"/>
+  </g>
+ </g>
+ <g class="cls-22" transform="translate(-50 -26.17)" clip-path="url(#clip-path-25)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-9" x="88.96" y="21.36" width="14.87" height="14.95" fill="#252525"/>
+  </g>
+ </g>
+ <g class="cls-24" transform="translate(-50 -26.17)" clip-path="url(#clip-path-29)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-11" x="45" y="48.36" width="15.15" height="15.04" fill="#a4a4a4"/>
+  </g>
+ </g>
+ <g class="cls-25" transform="translate(-50 -26.17)" clip-path="url(#clip-path-31)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-11" x="56.7" y="48.45" width="14.51" height="14.85" fill="#a4a4a4"/>
+  </g>
+ </g>
+ <g class="cls-26" transform="translate(-50 -26.17)" clip-path="url(#clip-path-33)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-11" x="68.19" y="48.45" width="13.64" height="14.85" fill="#a4a4a4"/>
+  </g>
+ </g>
+ <g class="cls-27" transform="translate(-50 -26.17)" clip-path="url(#clip-path-35)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-11" x="78.56" y="48.45" width="11.33" height="14.85" fill="#a4a4a4"/>
+  </g>
+ </g>
+ <g class="cls-28" transform="translate(-50 -26.17)" clip-path="url(#clip-path-37)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-11" x="86.91" y="48.45" width="14.51" height="14.85" fill="#a4a4a4"/>
+  </g>
+ </g>
+ <g class="cls-29" transform="translate(-50 -26.17)" clip-path="url(#clip-path-39)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-11" x="98.4" y="48.45" width="13.88" height="14.85" fill="#a4a4a4"/>
+  </g>
+ </g>
+ <g class="cls-30" transform="translate(-50 -26.17)" clip-path="url(#clip-path-41)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-31" x="45.44" y="21.36" width="14.87" height="15.14" fill="#393838"/>
+  </g>
+ </g>
+ <g class="cls-32" transform="translate(-50 -26.17)" clip-path="url(#clip-path-43)">
+  <g class="cls-5" clip-path="url(#clip-path-2)">
+   <rect class="cls-33" x="45.44" y="27.7" width="14.87" height="23.7" fill="#6a6a6a"/>
+  </g>
+ </g>
+</svg>
